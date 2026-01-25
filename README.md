@@ -33,7 +33,7 @@
 
 | Project | Status |
 |---------|--------|
-| **~Secret~** | !![](https://geps.dev/progress/90) |
+| **~Secret~** | ![](https://geps.dev/progress/90) |
 | **Politics-RAG** | ![](https://geps.dev/progress/10) |
 | **Poke-RAG** | ![](https://geps.dev/progress/10) |
 
