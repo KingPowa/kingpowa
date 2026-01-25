@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/fra-sammarco/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="ing.sammarco.francesco@gmail.com">
+  <a href="mailto:ing.sammarco.francesco@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
