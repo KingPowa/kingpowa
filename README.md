@@ -1,9 +1,3 @@
-<!--
-  🚀 Tip: edit this file to personalize your GitHub profile.
-  This README will show at the top of your GitHub profile page!
-  Learn how: https://github.com/github/feedback/discussions/2193
--->
-
 <h1 align="center">Hi there, I'm Francesco</h1>
 <p align="center">
   <em>a silly developer focused on AI & ML.</em>
@@ -39,23 +33,51 @@
 
 | Project | Status |
 |---------|--------|
-| **~Secret~** | ![90%](https://progress-bar.dev/90/?title=ML%20Toolkit) |
-| **Politics-RAG** | ![10%](https://progress-bar.dev/10/?title=Docs%20AI) |
-| **Poke-RAG** | ![10%](https://progress-bar.dev/90/?title=Bio%20Loader) |
+| **~Secret~** | !![](https://geps.dev/progress/90) |
+| **Politics-RAG** | ![](https://geps.dev/progress/10) |
+| **Poke-RAG** | ![](https://geps.dev/progress/10) |
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-Icons show your tech stack — replace or remove to fit your real toolset.
-
 <p align="center">
-  <!-- Dev icons -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/>
+  <!-- Languages & Core -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-Learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQL"/>
+
+  <br/>
+
+  <!-- ML / DL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
+
+  <!-- Experiment tracking -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter"/>
+  <img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/MLflow-logo-final-black.png" width="80" height="40" alt="MLflow"/>
+  <img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-dots-logo.svg" width="40" height="40" alt="Weights & Biases"/>
+
+  <br/>
+
+  <!-- Backend & APIs -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40" alt="GraphQL"/>
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+
+  <br/>
+
+  <!-- DevOps / Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS"/>
+
+  <!-- Docs -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" height="40" alt="LaTeX"/>
 </p>
 
 ---
