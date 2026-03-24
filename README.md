@@ -21,7 +21,7 @@
 ## 👨‍💻 About Me
 - 📍 Based in Naples (IT)  
 - 🎓 ML Engineer/Researcher
-- 🔭 I am currently working on Deep Learning interpretable models for Medical applications at [BeyondShape](https://www.beyondshape.eu/)
+- 🔭 I am currently working on Agentic AI and MLOps at [Live Reply](https://www.reply.com/live-reply/it)
 - 🌱 I’m learning Agentic AI and developing multiple projects for Fun/Production
 - 📫 How to reach me: ing.sammarco.francesco@gmail.com
 - ⚡️ My site: [boop!](https://kingpowa.github.io/)
